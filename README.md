@@ -19,19 +19,13 @@ Here are some ideas to get you started:
 # My AppImage packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=VLC-appimage)](https://github.com/ivan-hc/VLC-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=GIMP-appimage)](https://github.com/ivan-hc/GIMP-appimage)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=io.elementary.sideload-flatpak-installer-appimage)](https://github.com/ivan-hc/io.elementary.sideload-flatpak-installer-appimage)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=ocenaudio-appimage)](https://github.com/ivan-hc/ocenaudio-appimage)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=KDE-games-suite-appimage)](https://github.com/ivan-hc/KDE-games-suite-appimage)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Spotify-appimage)](https://github.com/ivan-hc/Spotify-appimage)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=io.elementary.sideload-flatpak-installer-appimage)](https://github.com/ivan-hc/io.elementary.sideload-flatpak-installer-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Celestia-appimage)](https://github.com/ivan-hc/Celestia-appimage)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=ocenaudio-appimage)](https://github.com/ivan-hc/ocenaudio-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Avidemux-unofficial-appimage)](https://github.com/ivan-hc/Avidemux-unofficial-appimage)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=qbittorrent-appimage)](https://github.com/ivan-hc/qbittorrent-appimage)
 
 # Side projects
