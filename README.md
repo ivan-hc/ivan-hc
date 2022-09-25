@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 # My AppImage packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=VLC-appimage)](https://github.com/ivan-hc/VLC-appimage)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=GIMP-appimage)](https://github.com/ivan-hc/GIMP-appimage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=io.elementary.sideload-flatpak-installer-appimage)](https://github.com/ivan-hc/io.elementary.sideload-flatpak-installer-appimage)
