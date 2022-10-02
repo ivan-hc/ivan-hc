@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Handbrake-appimage)](https://github.com/ivan-hc/Handbrake-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=KDE-games-suite-appimage)](https://github.com/ivan-hc/KDE-games-suite-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=KDE-utils-appimage)](https://github.com/ivan-hc/KDE-utils-appimage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=MPV-appimage)](https://github.com/ivan-hc/MPV-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=ocenaudio-appimage)](https://github.com/ivan-hc/ocenaudio-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=qbittorrent-appimage)](https://github.com/ivan-hc/qbittorrent-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Spotify-appimage)](https://github.com/ivan-hc/Spotify-appimage)
