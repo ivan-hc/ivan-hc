@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Main project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=gotham&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=omni&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
 
 # My AppImage packages
 #### Audio/Video
