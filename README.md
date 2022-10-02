@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # My AppImage packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Avidemux-unofficial-appimage)](https://github.com/ivan-hc/Avidemux-unofficial-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Celestia-appimage)](https://github.com/ivan-hc/Celestia-appimage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Chromium-Web-Browser-appimage)](https://github.com/ivan-hc/Chromium-Web-Browser-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Flatpak-installer-appimage)](https://github.com/ivan-hc/Flatpak-installer-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=GIMP-appimage)](https://github.com/ivan-hc/GIMP-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&repo=Handbrake-appimage)](https://github.com/ivan-hc/Handbrake-appimage)
