@@ -1,20 +1,14 @@
 
-<!--
-**ivan-hc/ivan-hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Main project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=github_dark&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
+
+ [***"AM" the Application Manager***](https://github.com/ivan-hc/AM-Application-Manager) 
+
+*Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create your own AppImages. Easy to use like APT and powerful like PacMan.*
+
+![](https://img.shields.io/github/stars/ivan-hc/AM-Application-Manager?color=black&label=%20%E2%AD%90&logo=%20&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/github/forks/ivan-hc/AM-Application-Manager?style=for-the-badge)
+![](https://img.shields.io/github/license/ivan-hc/AM-Application-Manager?style=for-the-badge)
+-------------------------------------------------------
 
 # My AppImage packages
 #### Audio/Video
