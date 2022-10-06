@@ -1,11 +1,6 @@
--------------------------------------------------------
 # Main project
 
-| [***"AM" the Application Manager***](https://github.com/ivan-hc/AM-Application-Manager) |
-| -- |
-*Install, update and manage AppImage packages and official standalone apps for GNU / Linux, with an ever-growing AUR-inspired database, scripts to manage AppImage builder tools and templates to create your own AppImages. Easy to use like APT and powerful like PacMan.*
-
-[![](https://img.shields.io/github/stars/ivan-hc/AM-Application-Manager?color=black&label=%20%E2%AD%90&logo=%20&logoColor=black&style=for-the-badge)](https://github.com/ivan-hc/AM-Application-Manager/stargazers) [![](https://img.shields.io/github/forks/ivan-hc/AM-Application-Manager?style=for-the-badge) ](https://github.com/ivan-hc/AM-Application-Manager/network/members) [![](https://img.shields.io/github/license/ivan-hc/AM-Application-Manager?style=for-the-badge)](https://github.com/ivan-hc/AM-Application-Manager/blob/main/LICENSE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=dark&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
 
 -------------------------------------------------------
 
