@@ -18,6 +18,7 @@
 
 #### Games
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=KDE-games-suite-appimage)](https://github.com/ivan-hc/KDE-games-suite-appimage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=SuperTuxKart-appimage)](https://github.com/ivan-hc/SuperTuxKart-appimage)
 
 #### Graphics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=GIMP-appimage)](https://github.com/ivan-hc/GIMP-appimage)
