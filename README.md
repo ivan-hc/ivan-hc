@@ -1,4 +1,6 @@
-# Main project
+# Main projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=dark&repo=AppMan)](https://github.com/ivan-hc/AppMan)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=dark&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
 
@@ -35,7 +37,6 @@
 
 # Side projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=highcontrast&repo=Arch-Deployer)](https://github.com/ivan-hc/Arch-Deployer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=highcontrast&repo=AppMan)](https://github.com/ivan-hc/AppMan)
 
 -------------------------------------------------------
 
