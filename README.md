@@ -27,6 +27,7 @@
 
 #### Network
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=Chromium-Web-Browser-appimage)](https://github.com/ivan-hc/Chromium-Web-Browser-appimage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=MS-Edge-appimage)](https://github.com/ivan-hc/MS-Edge-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=qbittorrent-appimage)](https://github.com/ivan-hc/qbittorrent-appimage)
 
 #### Utilities
