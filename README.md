@@ -34,6 +34,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=Flatpak-installer-appimage)](https://github.com/ivan-hc/Flatpak-installer-appimage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=KDE-utils-appimage)](https://github.com/ivan-hc/KDE-utils-appimage)
 
+#### Mix of AppImages
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=bear&repo=Database-of-pkg2appimaged-packages)](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages)
+
 -------------------------------------------------------
 
 # Side projects
