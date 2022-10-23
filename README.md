@@ -1,8 +1,27 @@
+Hi, my name is Ivan, I'm italian and I'm not a developer... I "do" the developer just for fun! My works are more oriented on spreading Portable Linux Apps in particular by playing with AppImage packages, all this using some custom bash  scripts.
+
 # Main projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=dark&repo=AppMan)](https://github.com/ivan-hc/AppMan)
+#### I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user, thus freeing him from any rules imposed by the community or not.
+------------------------
+### ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=dark&repo=AM-Application-Manager)](https://github.com/ivan-hc/AM-Application-Manager)
+![Readme](https://img.shields.io/github/issues/ivan-hc/AM-Application-Manager)
+![Readme](https://img.shields.io/github/forks/ivan-hc/AM-Application-Manager)
+![Readme](https://img.shields.io/github/stars/ivan-hc/AM-Application-Manager)
+![Readme](https://img.shields.io/github/license/ivan-hc/AM-Application-Manager)
+
+If you want to install system-wide applications on your GNU/Linux distribution in a way that is compatible with [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml) (all third-party apps must be installed in dedicated directories under `/opt` and their launchers and binaries in `/usr/local/* ...), just use ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager). This app manager requires root privileges only to install / remove applications, the main advantage of this type of installation is that the same applications will be available to all users of the system.
+
+------------------------
+### ["AppMan"](https://github.com/ivan-hc/AppMan)
+
+![Readme](https://img.shields.io/github/issues/ivan-hc/AppMan)
+![Readme](https://img.shields.io/github/forks/ivan-hc/AppMan)
+![Readme](https://img.shields.io/github/stars/ivan-hc/AppMan)
+![Readme](https://img.shields.io/github/license/ivan-hc/AppMan)
+
+If you don't want to put your app manager in a specific path but want to use it portable and want to install / update / manage all your apps locally, download ["AppMan"](https://github.com/ivan-hc/AppMan) instead. With this script you will be able to decide where to install your applications (at the expense of a greater consumption of resources if the system is used by more users). AppMan is portable, all you have to do is write the name of a folder in your home where you can install all the applications available in [the "AM" database](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs), and without root privileges:
 
 -------------------------------------------------------
 
