@@ -1,4 +1,4 @@
-Hi, my name is Ivan, I'm italian and I'm not a developer... I "do" the developer just for fun! My works are more oriented on spreading Portable Linux Apps in particular by playing with AppImage packages, all this using some custom bash  scripts.
+Hi, my name is Ivan, I'm italian and "I'm not" a developer... I "do" the developer just for fun! My works are more oriented on spreading Portable Linux Apps in particular by playing with AppImage packages, all this using some custom bash  scripts.
 
 # Main projects
 
