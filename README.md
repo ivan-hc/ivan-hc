@@ -40,7 +40,7 @@
 | [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) | *(Unofficial Lite Edition) built from the official PPA* |
 | [*Sideload*](https://github.com/ivan-hc/Flatpak-installer-appimage) | *the Flatpak installer from elementaryOS (not available in my App Managers)* |
 | [*Spotify Unofficial*](https://github.com/ivan-hc/Spotify-appimage) | *built from the official .deb package* |
-| [*Steam*](https://github.com/ivan-hc/Spotify-appimage) | *a first experimental attempt to convert Steam into a portable AppImage package* |
+| [*Steam*](https://github.com/ivan-hc/Steam-appimage) | *a first experimental attempt to convert Steam into a portable AppImage package* |
 | [*SuperTuxKart*](https://github.com/ivan-hc/SuperTuxKart-appimage) | *the crazy kart racing game built from the official release* |
 | [*VLC*](https://github.com/ivan-hc/VLC-appimage) | *the best Video and Media player ever, built from PPA.* |
 
