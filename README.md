@@ -2,16 +2,16 @@ Hi, my name is Ivan, I'm italian and "I'm not" a developer... I only "do" the de
 
 # Main projects
 
-#### I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user, thus freeing him from any rules imposed by the community or not.
-------------------------
-## ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager)
+I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user, thus freeing him from any rules imposed by the community or not.
+
+### ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager)
 
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AM-Application-Manager?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AM-Application-Manager/stargazers)
 
 If you want to install system-wide applications on your GNU/Linux distribution in a way that is compatible with [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml) (all third-party apps must be installed in dedicated directories under `/opt` and their launchers and binaries in `/usr/local/*` ...), just use ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager). This app manager requires root privileges only to install / remove applications, the main advantage of this type of installation is that the same applications will be available to all users of the system.
 
-------------------------
-## ["AppMan"](https://github.com/ivan-hc/AppMan)
+
+### ["AppMan"](https://github.com/ivan-hc/AppMan)
 
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AppMan?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AppMan/stargazers)
 
