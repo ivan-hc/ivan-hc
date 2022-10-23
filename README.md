@@ -18,28 +18,30 @@
 ## My AppImage packages
 *This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan":*
 
-- *[Asunder](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder), an Audio CD-Ripper built from Debian Oldstable;*
-- *[Audacious](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious), an Audio player built from PPA;*
-- *[Avidemux](https://github.com/ivan-hc/Avidemux-unofficial-appimage) (Unofficial), a custom build (ie for my personal use) that supports dark themes (not available in my App Managers, where it is also available the official AppImage);*
-- *[Billard GL](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl), a GPL 3D OpenGL Billard Simulator built from Debian Oldstable;*
-- *[CAP: Pirate Battleship](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship), a pirate-themed battleship game built from the official .deb package;*
-- *[Celestia](https://github.com/ivan-hc/Celestia-appimage) (Enanched version), a multiplatform free space simulator with additional maps for Planets and Moons (not available in my App Managers, where there are already used both Stable and Development versions from the official forum);*
-- *[Chromium BSU](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu), an arcade-style, top-scrolling space shooter;*
-- *[Chromium Web Browser](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) (Stable) built from PPA;*
-- *[Extreme Tux Racer](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer),3D racing game featuring Tux, the Linux penguin;*
-- *[GIMP](https://github.com/ivan-hc/GIMP-appimage) (Stable and Development editions) built from PPA;*
-- *[Handbrake](https://github.com/ivan-hc/Handbrake-appimage), an Audio & Video transcoder built from PPA;*
-- *[KDE-games-suite](https://github.com/ivan-hc/KDE-games-suite-appimage), all the KDE games in one AppImage built from Debian Stable;*
-- *[KDE-utils](https://github.com/ivan-hc/KDE-utils-appimage), the full suite of KDE utilities in one AppImage built from Debian Stable;*
-- *[lxtask](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask), the default Task Manager of LXDE/LXQT;*
-- *[Microsoft Edge](https://github.com/ivan-hc/MS-Edge-appimage) (Unofficial Stable/Beta/Development editions) built from the official debs;*
-- *[MPV](https://github.com/ivan-hc/MPV-appimage), a versatile lightweight Video Player;*
-- *[ocenaudio](https://github.com/ivan-hc/ocenaudio-appimage), one of the best multiplatform Audio editors;*
-- *[qBittorrent](https://github.com/ivan-hc/qbittorrent-appimage) (Unofficial Lite Edition) built from the official PPA;*
-- *[Sideload](https://github.com/ivan-hc/Flatpak-installer-appimage), the Flatpak installer from elementaryOS (not available in my App Managers);*
-- *[Spotify](https://github.com/ivan-hc/Spotify-appimage) (Unofficial), built from the official .deb package;*
-- *[SuperTuxKart](https://github.com/ivan-hc/SuperTuxKart-appimage), the crazy kart racing game built from the official release;*
-- *[VLC](https://github.com/ivan-hc/VLC-appimage), the best Video and Media player ever, built from PPA.*
+| Application | Description |
+| -- | -- |
+| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *an Audio CD-Ripper built from Debian Oldstable* |
+| [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *an Audio player built from PPA* |
+| [*Avidemux Unofficial*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *a custom build (ie for my personal use) that supports dark themes (not available in my App Managers, where it is also available the official AppImage)* |
+| [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *a GPL 3D OpenGL Billard Simulator built from Debian Oldstable* |
+| [*CAP: Pirate Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *a pirate-themed battleship game built from the official .deb package* |
+| [*Celestia Enanched*](https://github.com/ivan-hc/Celestia-appimage) | *a multiplatform free space simulator with additional maps for Planets and Moons (not available in my App Managers, where there are already used both Stable and Development versions from the official forum)* |
+| [*Chromium BSU*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu) | *an arcade-style, top-scrolling space shooter* |
+| [*Chromium Web Browser*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) | *(Stable) built from PPA* |
+| [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *3D racing game featuring Tux, the Linux penguin* |
+| [*GIMP*](https://github.com/ivan-hc/GIMP-appimage) | *(Stable and Development editions) built from PPA* |
+| [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) | *an Audio & Video transcoder built from PPA* |
+| [*KDE-games-suite*](https://github.com/ivan-hc/KDE-games-suite-appimage) | *all the KDE games in one AppImage built from Debian Stable* |
+| [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *the full suite of KDE utilities in one AppImage built from Debian Stable* |
+| [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *the default Task Manager of LXDE/LXQT* |
+| [*Microsoft Edge*](https://github.com/ivan-hc/MS-Edge-appimage) | *(Unofficial Stable/Beta/Development editions) built from the official debs* |
+| [*MPV*](https://github.com/ivan-hc/MPV-appimage) | *a versatile lightweight Video Player* |
+| [*ocenaudio*](https://github.com/ivan-hc/ocenaudio-appimage) | *one of the best multiplatform Audio editors* |
+| [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) | *(Unofficial Lite Edition) built from the official PPA* |
+| [*Sideload*](https://github.com/ivan-hc/Flatpak-installer-appimage) | *the Flatpak installer from elementaryOS (not available in my App Managers)* |
+| [*Spotify Unofficial*](https://github.com/ivan-hc/Spotify-appimage) | *built from the official .deb package* |
+| [*SuperTuxKart*](https://github.com/ivan-hc/SuperTuxKart-appimage) | *the crazy kart racing game built from the official release* |
+| [*VLC*](https://github.com/ivan-hc/VLC-appimage) | *the best Video and Media player ever, built from PPA.* |
 
 -------------------------------------------------------
 
