@@ -39,7 +39,7 @@
 - *[Sideload](https://github.com/ivan-hc/Flatpak-installer-appimage), the Flatpak installer from elementaryOS (not available in my App Managers);*
 - *[Spotify](https://github.com/ivan-hc/Spotify-appimage) (Unofficial), built from the official .deb package;*
 - *[SuperTuxKart](https://github.com/ivan-hc/SuperTuxKart-appimage), the crazy kart racing game built from the official release;*
-- *[VLC](https://github.com/ivan-hc/VLC-appimage), the best Video and Media player ever.*
+- *[VLC](https://github.com/ivan-hc/VLC-appimage), the best Video and Media player ever, built from PPA.*
 
 -------------------------------------------------------
 
