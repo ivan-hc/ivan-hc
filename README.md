@@ -24,7 +24,7 @@
 - *[Billard GL](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl), a GPL 3D OpenGL Billard Simulator built from Debian Oldstable;*
 - *[CAP: Pirate Battleship](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship), a pirate-themed battleship game built from the official .deb package;*
 - *[Celestia](https://github.com/ivan-hc/Celestia-appimage) (Enanched version), a multiplatform free space simulator with additional maps for Planets and Moons (not available in my App Managers, where there are already used both Stable and Development versions from the official forum);*
-- *[Chromium BSU](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu), an arcade-style, top-scrolling space shooter;
+- *[Chromium BSU](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu), an arcade-style, top-scrolling space shooter;*
 - *[Chromium Web Browser](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) (Stable) built from PPA;*
 - *[Extreme Tux Racer](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer),3D racing game featuring Tux, the Linux penguin;*
 - *[GIMP](https://github.com/ivan-hc/GIMP-appimage) (Stable and Development editions) built from PPA;*
