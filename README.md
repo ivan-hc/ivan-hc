@@ -60,4 +60,4 @@
 | -- | -- | -- |
 | [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) | *ascript to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?color=000000&label=%20)
 | [*Firefox-for-Linux-scripts*](https://github.com/ivan-hc/Firefox-for-Linux-scripts) | *easily install and remove official Firefox Stable, Beta, DevEdition, Nightly and ESR versions on GNU / Linux using my scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?color=000000&label=%20)
-| [*flatpak-install-action*](https://github.com/ivan-hc/flatpak-install-action) | *a custom action to install applications from flathub by pressing the "install" button in Firefox via bash* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?color=000000&label=%20)
+| [*Flatpak-install-action*](https://github.com/ivan-hc/flatpak-install-action) | *a custom action to install applications from flathub by pressing the "install" button in Firefox via bash* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?color=000000&label=%20)
