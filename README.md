@@ -1,5 +1,14 @@
 *My name is Ivan, I'm italian and I like to play with Portable Linux Apps, in particular AppImage packages.*
-## Main projects
+
+-------------------------------------------------------
+
+- [Main projects](#main-projects)
+- [My AppImage packages](#my-appimage-packages)
+- [Scripts and utilities](scripts-and-utilities)
+
+-------------------------------------------------------
+
+### Main projects
 
 *I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user.*
 
@@ -20,7 +29,7 @@
 
 | Application | Description | Stars |
 | -- | -- | -- |
-| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *an Audio CD-Ripper built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20)
+| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | <sub>*an Audio CD-Ripper built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20)
 | [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *an Audio player built from PPA* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20)
 | [*Avidemux Unofficial*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *a custom build (ie for my personal use) that supports dark themes (not available in my App Managers, where it is also available the official AppImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?color=000000&label=%20)
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *a GPL 3D OpenGL Billard Simulator built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20)
@@ -46,11 +55,7 @@
 
 -------------------------------------------------------
 
-## Side projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=highcontrast&repo=Arch-Deployer)](https://github.com/ivan-hc/Arch-Deployer)
-
--------------------------------------------------------
-
-## Scripts and utilities
+### Scripts and utilities
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=nightowl&repo=Firefox-for-Linux-scripts)](https://github.com/ivan-hc/Firefox-for-Linux-scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=nightowl&repo=flatpak-install-action)](https://github.com/ivan-hc/flatpak-install-action)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivan-hc&theme=nightowl&repo=Arch-deployer)](https://github.com/ivan-hc/Arch-deployer)
