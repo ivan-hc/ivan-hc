@@ -29,7 +29,7 @@
 
 | Application | Description | Stars |
 | -- | -- | -- |
-| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | <sub>*an Audio CD-Ripper built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20&style=for-the-badge&style=for-the-badge)
+| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | <sub>*an Audio CD-Ripper built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20&style=for-the-badge)
 | [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *an Audio player built from PPA* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20&style=for-the-badge)
 | [*Avidemux Unofficial*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *a custom build (ie for my personal use) that supports dark themes (not available in my App Managers, where it is also available the official AppImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?color=000000&label=%20&style=for-the-badge)
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *a GPL 3D OpenGL Billard Simulator built from Debian Oldstable* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?color=000000&label=%20&style=for-the-badge)
@@ -58,6 +58,6 @@
 ### Scripts and utilities
 | Application | Description | Stars |
 | -- | -- | -- |
-| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) | *ascript to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?color=000000&label=%20)
-| [*Firefox-for-Linux-scripts*](https://github.com/ivan-hc/Firefox-for-Linux-scripts) | *easily install and remove official Firefox Stable, Beta, DevEdition, Nightly and ESR versions on GNU / Linux using my scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?color=000000&label=%20)
-| [*Flatpak-install-action*](https://github.com/ivan-hc/flatpak-install-action) | *a custom action to install applications from flathub by pressing the "install" button in Firefox via bash* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?color=000000&label=%20)
+| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) | *ascript to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?color=000000&label=%20&style=for-the-badge)
+| [*Firefox-for-Linux-scripts*](https://github.com/ivan-hc/Firefox-for-Linux-scripts) | *easily install and remove official Firefox Stable, Beta, DevEdition, Nightly and ESR versions on GNU / Linux using my scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?color=000000&label=%20&style=for-the-badge)
+| [*Flatpak-install-action*](https://github.com/ivan-hc/flatpak-install-action) | *a custom action to install applications from flathub by pressing the "install" button in Firefox via bash* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?color=000000&label=%20&style=for-the-badge)
