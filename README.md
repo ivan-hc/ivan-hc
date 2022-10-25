@@ -15,7 +15,7 @@
 
 -------------------------------------------------------
 
-## My AppImage packages
+### My AppImage packages
 *This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan":*
 
 | Application | Description | Stars |
