@@ -30,7 +30,7 @@
 
 | Application | Stars |
 | -- | -- |
-| [*AnyDesk*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/anydesk), remote desktop application distributed (unofficial AppImage) | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
+| [*AnyDesk*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/anydesk), a remote desktop client | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 | [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder), an Audio CD-Ripper built from Debian Oldstable | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 | [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious), an Audio player built from PPA | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage), a custom build (ie for my personal use) that supports dark themes (not available in my App Managers, where you can rely on the official AppImage) | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
