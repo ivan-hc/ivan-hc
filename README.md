@@ -68,4 +68,4 @@
 ### Side projects
 | Project | Stars |
 | -- | -- |
-| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) (deprecated) | <sub>*a script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
+| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) (deprecated) | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
