@@ -60,12 +60,12 @@
 -------------------------------------------------------
 
 ### Scripts and utilities
-| Project | Description | Stars |
-| -- | -- | -- |
-| [*Firefox-for-Linux-scripts*](https://github.com/ivan-hc/Firefox-for-Linux-scripts) | <sub>*easily install and remove official Firefox Stable, Beta, DevEdition, Nightly and ESR versions on GNU / Linux using my scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
-| [*Flatpak-install-action*](https://github.com/ivan-hc/flatpak-install-action) | <sub>*a custom action to install applications from flathub by pressing the "install" button in Firefox via bash* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
+| Project | Stars |
+| -- | -- |
+| [*Firefox for Linux*](https://github.com/ivan-hc/Firefox-for-Linux-scripts), installation scripts | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
+| [*Flatpak installer*](https://github.com/ivan-hc/flatpak-install-action), a custom action | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
 
 ### Side projects
-| Project | Description | Stars |
-| -- | -- | -- |
-| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) | <sub>*a script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
+| Project | Stars |
+| -- | -- |
+| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) (deprecated) | <sub>*a script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
