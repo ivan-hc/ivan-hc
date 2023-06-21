@@ -49,6 +49,7 @@
 | [*Microsoft Edge*](https://github.com/ivan-hc/MS-Edge-appimage) *(from .deb packages)* | ![](https://img.shields.io/github/stars/ivan-hc/MS-Edge-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*MPV*](https://github.com/ivan-hc/MPV-appimage) *(from Debian)* | ![](https://img.shields.io/github/stars/ivan-hc/MPV-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*ocenaudio*](https://github.com/ivan-hc/ocenaudio-appimage) *(from .deb package)* | ![](https://img.shields.io/github/stars/ivan-hc/ocenaudio-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Opera*](https://github.com/ivan-hc/Opera-appimage) *(from .deb package)* | ![](https://img.shields.io/github/stars/ivan-hc/Opera-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/qbittorrent-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Sideload*](https://github.com/ivan-hc/Flatpak-installer-appimage) *(from elementaryOS)* | ![](https://img.shields.io/github/stars/ivan-hc/Flatpak-installer-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) *(from PPA)*  | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
