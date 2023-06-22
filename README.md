@@ -61,6 +61,7 @@
 | [*SuperTuxKart*](https://github.com/ivan-hc/SuperTuxKart-appimage) *(from source)* | ![](https://img.shields.io/github/stars/ivan-hc/SuperTuxKart-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Vivaldi Browser*](https://github.com/ivan-hc/Vivaldi-appimage) *(from .deb package)* | ![](https://img.shields.io/github/stars/ivan-hc/Vivaldi-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*VLC*](https://github.com/ivan-hc/VLC-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*WhatsApp Nativefier*](https://github.com/ivan-hc/whatsapp-nativefier-appimage) *(from AUR)* | ![](https://img.shields.io/github/stars/ivan-hc/whatsapp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
 
 -------------------------------------------------------
 
