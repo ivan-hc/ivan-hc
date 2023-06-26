@@ -71,6 +71,7 @@
 | Project | Stars |
 | -- | -- |
 | [*AppImaGen*](https://github.com/ivan-hc/AppImaGen)*, AppImage package builder* | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| [*ArchImage*](https://github.com/ivan-hc/ArchImage)*, JuNest-based AppImage packaging* | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
 | [*Firefox for Linux*](https://github.com/ivan-hc/Firefox-for-Linux-scripts)*, installation scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
 | [*Flatpak installer*](https://github.com/ivan-hc/flatpak-install-action)*, a custom action* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
 
