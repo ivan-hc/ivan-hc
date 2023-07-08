@@ -40,7 +40,7 @@
 | [*Celestia*](https://github.com/ivan-hc/Celestia-appimage) *(unofficial, enanched version)* | ![](https://img.shields.io/github/stars/ivan-hc/Celestia-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chrome*](https://github.com/ivan-hc/Chrome-appimage) *(from .deb packages)* | ![](https://img.shields.io/github/stars/ivan-hc/Chrome-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chromium BSU*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu) *(from Debian)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
-| [*Chromium*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/Chromium-Web-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Chromium*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) *(from Debian)* | ![](https://img.shields.io/github/stars/ivan-hc/Chromium-Web-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Dropbox*](https://github.com/ivan-hc/Dropbox-appimage) *(from AUR)* | ![](https://img.shields.io/github/stars/ivan-hc/Dropbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Emacs*](https://github.com/ivan-hc/Emacs-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/Emacs-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) *(from Debian)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
