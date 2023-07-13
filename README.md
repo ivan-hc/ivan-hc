@@ -46,7 +46,7 @@
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 | [*Gnumeric*](https://github.com/ivan-hc/Gnumeric-appimage) *(ArchImage from JuNest)* | ![](https://img.shields.io/github/stars/ivan-hc/Gnumeric-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*GIMP Stable/Dev*](https://github.com/ivan-hc/GIMP-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) *(from Debian)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
