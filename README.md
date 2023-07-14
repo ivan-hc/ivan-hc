@@ -26,7 +26,22 @@
 -------------------------------------------------------
 
 ### My AppImage packages
-*This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan":*
+*Sometimes my Appimage packages are built from a base of precompiled packages, whether they are in .deb or .tar format it doesn't matter, as long as they know how to work by themselves.* 
+
+*Unfortunately it's not always that simple, so we need to download more dependencies from external packages.*
+
+*When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages: AppImagen and ArchImage!*
+
+-------------------------------------------------------
+
+| Tools I wrote to build AppImage packages  | Stars |
+| -- | -- |
+| ***[**AppImaGen**](https://github.com/ivan-hc/AppImaGen) builds AppImages from Ubuntu PPAs or Debian repositories. Final packages are GLIBC compatible for the chosen Debian release or older Ubuntu LTS.*** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| ***[**ArchImage**](https://github.com/ivan-hc/ArchImage) builds AppImages including a mini version of Arch Linux ([JuNest](https://github.com/fsquillace/junest)), this way the final package is compatible with all distributions!*** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+
+-------------------------------------------------------
+
+*This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan", in brackets I have indicated the origin of each of them:*
 
 | Application | Stars |
 | -- | -- |
@@ -46,7 +61,7 @@
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 | [*Gnumeric*](https://github.com/ivan-hc/Gnumeric-appimage) *(ArchImage from JuNest)* | ![](https://img.shields.io/github/stars/ivan-hc/Gnumeric-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*GIMP Stable/Dev*](https://github.com/ivan-hc/GIMP-appimage) *(from PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) *(ArchImage from JuNest)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) *(from Debian Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
@@ -73,8 +88,6 @@
 ### Scripts and utilities
 | Project | Stars |
 | -- | -- |
-| [*AppImaGen*](https://github.com/ivan-hc/AppImaGen)*, AppImage package builder* | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
-| [*ArchImage*](https://github.com/ivan-hc/ArchImage)*, JuNest-based AppImage packaging* | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
 | [*Firefox for Linux*](https://github.com/ivan-hc/Firefox-for-Linux-scripts)*, installation scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
 | [*Flatpak installer*](https://github.com/ivan-hc/flatpak-install-action)*, a custom action* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
 
