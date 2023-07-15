@@ -3,13 +3,15 @@
 -------------------------------------------------------
 
 - [Main projects](#main-projects)
-- [My AppImage packages](#my-appimage-packages)
+- [Creating AppImage packages](#creating-appimage-packages)
+  - [Tools for creating AppImage packages](#tools-for-creating-appimage-packages)
+  - [My AppImage packages](#my-appimage-packages) 
 - [Scripts and utilities](#scripts-and-utilities)
 - [Side projects](#side-projects)
 
 -------------------------------------------------------
 
-### Main projects
+## Main projects
 
 *I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user.*
 
@@ -25,23 +27,25 @@
 
 -------------------------------------------------------
 
-### My AppImage packages
+## Creating AppImage packages
 *Sometimes my Appimage packages are built from a base of precompiled packages, whether they are in .deb or .tar format it doesn't matter, as long as they know how to work by themselves.* 
 
 *Unfortunately it's not always that simple, so we need to download more dependencies from external packages.*
 
+-------------------------------------------------------
+
+#### Tools for creating AppImage packages
 *When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages: AppImagen and ArchImage!*
 
--------------------------------------------------------
-
-| Tools I wrote to build AppImage packages  | Stars |
-| -- | -- |
-| ***[**AppImaGen**](https://github.com/ivan-hc/AppImaGen) builds AppImages from Ubuntu PPAs or Debian repositories. Final packages are GLIBC compatible for the chosen Debian release or older Ubuntu LTS.*** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
-| ***[**ArchImage**](https://github.com/ivan-hc/ArchImage) builds AppImages including a mini version of Arch Linux ([JuNest](https://github.com/fsquillace/junest)), this way the final package is compatible with all distributions!*** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+| Tool | What it does | Stars |
+| -- | -- | -- |
+| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | ***<sub>This is a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS.<sub>*** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | ***<sub>This is another script that builds a kind of AppImages I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions.<sub>*** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
 
 -------------------------------------------------------
 
-*This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan", in brackets I have indicated the origin of each of them:*
+#### My AppImage packages
+*This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan".*
 
 | Application | Stars |
 | -- | -- |
@@ -85,13 +89,13 @@
 
 -------------------------------------------------------
 
-### Scripts and utilities
+## Scripts and utilities
 | Project | Stars |
 | -- | -- |
 | [*Firefox for Linux*](https://github.com/ivan-hc/Firefox-for-Linux-scripts)*, installation scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
 | [*Flatpak installer*](https://github.com/ivan-hc/flatpak-install-action)*, a custom action* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
 
-### Side projects
+## Side projects
 | Project | Stars |
 | -- | -- |
 | [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) *(deprecated)* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
