@@ -2,12 +2,15 @@
 
 -------------------------------------------------------
 
-- [Main projects](#main-projects)
-- [Creating AppImage packages](#creating-appimage-packages)
-  - [My Tools](#my-tools)
-  - [My AppImage packages](#my-appimage-packages) 
-- [Scripts and utilities](#scripts-and-utilities)
-- [Side projects](#side-projects)
+[Main projects](#main-projects)
+
+[Creating AppImage packages](#creating-appimage-packages)
+- [My Tools](#my-tools)
+- [My AppImage packages](#my-appimage-packages)
+
+[Scripts and utilities](#scripts-and-utilities)
+
+[Side projects](#side-projects)
 
 -------------------------------------------------------
 
