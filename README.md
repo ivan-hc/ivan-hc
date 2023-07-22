@@ -82,7 +82,7 @@
 | [*WhatsApp Nativefier*](https://github.com/ivan-hc/whatsapp-nativefier-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/whatsapp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Database of pkg2appimaged packages**](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) | *Various .deb sources* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 
-**The last one of the table above is a database containing the following little apps and games which you may need:*
+**NOTE, the last one in the table above is a database containing small random apps and games that you may need. The AppImages contained in this repository are:*
 
 | Application | Source / Based on... |
 | -- | -- |
@@ -95,6 +95,10 @@
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Debian (Stable)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *Debian (Oldstable)*
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) | *Ubuntu (PPA)*
+
+*All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
+
+*I hope you enjoy them!*
 
 -------------------------------------------------------
 
