@@ -82,7 +82,7 @@
 | [*WhatsApp Nativefier*](https://github.com/ivan-hc/whatsapp-nativefier-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/whatsapp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Database of pkg2appimaged packages**](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) | *Various .deb sources* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 
-**The last one of the table above, "[Database of pkg2appimaged packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages)", is a database containing the following little apps and games which you may need, all compiled using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit):*
+**The last one of the table above is a database containing the following little apps and games which you may need:*
 
 | Application | Source / Based on... |
 | -- | -- |
