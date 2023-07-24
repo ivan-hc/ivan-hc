@@ -53,7 +53,7 @@
 | Application | Source / Based on... | Stars |
 | -- | -- | -- |
 | [*Abiword*](https://github.com/ivan-hc/Abiword-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Abiword-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Debian (Testing, "deb-multimedia")* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Celestia*](https://github.com/ivan-hc/Celestia-appimage) | *AppImage, improved version* | ![](https://img.shields.io/github/stars/ivan-hc/Celestia-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chrome Stable/Beta/Unstable*](https://github.com/ivan-hc/Chrome-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/Chrome-appimage?label=%E2%AD%90&style=for-the-badge)
