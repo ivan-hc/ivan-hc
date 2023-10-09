@@ -7,6 +7,7 @@
 [Creating AppImage packages](#creating-appimage-packages)
 - [My Tools](#my-tools)
 - [My AppImage packages](#my-appimage-packages)
+- [My 32-bit AppImage packages](#my-32-bit-appimage-packages)
 
 [Scripts and utilities](#scripts-and-utilities)
 
@@ -99,6 +100,25 @@
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
 *I hope you enjoy them!*
+
+-------------------------------------------------------
+
+#### My 32-bit AppImage packages
+*32-bit GNU/Linux distributions are increasingly rarely used, but this does not mean they should be excluded. If you use Debian Stable for i386 (recommended) or higher, I have created a specific repository for those applications, all manageable through AM and AppMan.*
+
+| Application | Source / Based on... | Stars |
+| -- | -- | -- |
+| [*32-bit AppImage packages database*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases) | *Various .deb sources* | ![](https://img.shields.io/github/stars/ivan-hc/32-bit-AppImage-packages-database?label=%E2%AD%90&style=for-the-badge)
+
+*The 32-bit AppImages contained in this repository are:*
+
+| Application | Source / Based on... |
+| -- | -- |
+| [*Chromium*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/chromium) | *Debian (Oldstable)*
+| [*GIMP*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/gimp) | *Debian (Stable)*
+| [*KDE-games*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/kdegames) | *Debian (Stable)*
+
+*I have not included them in the main repositories of their 64-bit counterparts to avoid confusion.*
 
 -------------------------------------------------------
 
