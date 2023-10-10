@@ -117,6 +117,7 @@
 | [*Chromium*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/chromium) | *Debian (Oldstable)*
 | [*GIMP*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/gimp) | *Debian (Stable)*
 | [*KDE-games*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/kdegames) | *Debian (Stable)*
+| [*VLC*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/vlc) | *Debian (Stable)*
 
 *I have not included them in the main repositories of their 64-bit counterparts to avoid confusion.*
 
