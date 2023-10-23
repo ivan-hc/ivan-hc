@@ -73,6 +73,7 @@
 | [*Opera Stable/Beta/Dev*](https://github.com/ivan-hc/Opera-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/Opera-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) | *Ubuntu (PPA)* | ![](https://img.shields.io/github/stars/ivan-hc/qbittorrent-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Sideload*](https://github.com/ivan-hc/Flatpak-installer-appimage) | *Official .deb package (ElementaryOS)* | ![](https://img.shields.io/github/stars/ivan-hc/Flatpak-installer-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Skype*](https://github.com/ivan-hc/Skype-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify*](https://github.com/ivan-hc/Spotify-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
