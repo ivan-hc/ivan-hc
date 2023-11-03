@@ -39,12 +39,15 @@
 -------------------------------------------------------
 
 #### My Tools
-*When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages: AppImagen and ArchImage!*
+*When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages*: 
+- *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen), a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS*;
+- *[**ArchImage**](https://github.com/ivan-hc/ArchImage), another script that builds a kind of AppImage package I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions*.
 
-| Tool | What it does | Stars |
-| -- | -- | -- |
-| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | ***<sub>This is a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS.<sub>*** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
-| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | ***<sub>This is another script that builds a kind of AppImages I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions.<sub>*** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+*To recap:*
+| Name | AppImages base | Efficiency (%) | Stars |
+| -- | -- | -- | -- |
+| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian.* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux.* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
 
 -------------------------------------------------------
 
