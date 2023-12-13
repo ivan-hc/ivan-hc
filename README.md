@@ -65,7 +65,7 @@
 | [*Dropbox*](https://github.com/ivan-hc/Dropbox-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/Dropbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Emacs*](https://github.com/ivan-hc/Emacs-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Emacs-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Gnumeric*](https://github.com/ivan-hc/Gnumeric-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Gnumeric-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*GIMP Stable/Developer*](https://github.com/ivan-hc/GIMP-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*GIMP Stable/Developer/Git/Hybrid*](https://github.com/ivan-hc/GIMP-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *Debian (Stable)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
