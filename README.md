@@ -84,6 +84,7 @@
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Sideload*](https://github.com/ivan-hc/Flatpak-installer-appimage) | *Official .deb package (ElementaryOS)* | ![](https://img.shields.io/github/stars/ivan-hc/Flatpak-installer-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Skype*](https://github.com/ivan-hc/Skype-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*SpaceCadet Pinball (AUR)*](https://github.com/ivan-hc/Spacecadetpinball-git-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Spacecadetpinball-git-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify*](https://github.com/ivan-hc/Spotify-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Steam*](https://github.com/ivan-hc/Steam-appimage) | *Official .deb package (experimental)* | ![](https://img.shields.io/github/stars/ivan-hc/Steam-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SuperTuxKart*](https://github.com/ivan-hc/SuperTuxKart-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/SuperTuxKart-appimage?label=%E2%AD%90&style=for-the-badge)
