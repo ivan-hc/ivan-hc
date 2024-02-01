@@ -93,6 +93,7 @@
 | [*Vivaldi Stable/Snapshot*](https://github.com/ivan-hc/Vivaldi-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/Vivaldi-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*VLC*](https://github.com/ivan-hc/VLC-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*WhatsApp Nativefier*](https://github.com/ivan-hc/whatsapp-nativefier-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/whatsapp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*WPS Office*](https://github.com/ivan-hc/WPS-Office-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/WPS-Office-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Database of pkg2appimaged packages**](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) | *Various .deb sources* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
 
 **NOTE, the last one in the table above is a database containing small random apps and games that you may need. The AppImages contained in this repository are:*
