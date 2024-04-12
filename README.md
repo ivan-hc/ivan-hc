@@ -2,13 +2,13 @@
 ### I am Italian :it: and I live between Vesuvius :volcano: and the Gulf of Naples :ocean:
 *I like to play with Portable Linux Apps, in particular AppImage packages.*
 
-*I don't consider myself and I don't want to consider myself a real developer, I have neither the background nor the right training to be one... **I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun. I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
+*I don't consider myself and I don't want to consider myself a real developer, I have neither the background nor the right training to be one... **I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun.*
+
+*I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
 
-*However, I made the mistake of getting too carried away by this enthusiasm, and I started publishing "things".*
-
--------------------------------------------------------
+*However, I made the mistake of getting too carried away by this enthusiasm, and I started publishing "stuff":*
 
 [Main projects](#main-projects)
 
@@ -159,3 +159,7 @@
 | Project | Stars |
 | -- | -- |
 | [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) *(deprecated)* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
+
+-------------------------------------------------------
+
+##### *If you find what I do useful, let me know with a star ⭐ in the repository you like best, or with a donation on [PayPal](http://paypal.me/IvanAlexHC) and [Ko-fi](https://ko-fi.com/IvanAlexHC). Thanks in advance!*
