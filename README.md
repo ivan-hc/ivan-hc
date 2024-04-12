@@ -1,10 +1,12 @@
 # Hi there! I'm **Ivan** :fire: 
 ### I am Italian :it: and I live between Vesuvius :volcano: and the Gulf of Naples :ocean:
-*I like to play with Portable Linux Apps, in particular AppImage packages. I don't consider myself a developer, but just an enthusiast who enjoys writing scripts for GNU/Linux, for fun. I can? I can not make it? It's up to you to judge.*
+*I like to play with Portable Linux Apps, in particular AppImage packages.*
+
+*I don't consider myself and I don't want to consider myself a real developer, I have neither the background nor the right training to be one... **I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun. I started writing small scripts for personal use, in my free time... and then sharing them here, on Github. However, I made the mistake of getting too carried away by this enthusiasm, and I started publishing "things". Whether they are useful or not... it's up to you to judge!*
 
 -------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
 
 -------------------------------------------------------
 
