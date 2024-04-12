@@ -1,4 +1,10 @@
-*My name is Ivan, I'm italian and I like to play with Portable Linux Apps, in particular AppImage packages.*
+# Hi there! I'm **Ivan** :fire: 
+### I am Italian :it: and I live between Vesuvius :volcano: and the Gulf of Naples :ocean:
+*I like to play with Portable Linux Apps, in particular AppImage packages. I don't consider myself a developer, but just an enthusiast who enjoys writing scripts for GNU/Linux, for fun. I can? I can not make it? It's up to you to judge.*
+
+-------------------------------------------------------
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=dark)
 
 -------------------------------------------------------
 
