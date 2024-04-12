@@ -1,6 +1,6 @@
 # Hi there! I'm **Ivan** :fire: 
 ### I am Italian :it: and I live between Vesuvius :volcano: and the Gulf of Naples :ocean:
-*I like to play with Portable Linux Apps, in particular AppImage packages.*
+*I like to play with Portable Linux Apps, in particular **AppImage packages**.*
 
 *I don't consider myself and I don't want to consider myself a real developer, I have neither the background nor the right training to be one... **I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun.*
 
