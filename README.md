@@ -4,9 +4,9 @@
 
 ***I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun.*
 
-*I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
+
+*I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
 
 [Main projects](#main-projects)
 
