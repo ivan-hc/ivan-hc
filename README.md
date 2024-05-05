@@ -1,5 +1,4 @@
-# Hi there! I'm **Ivan** :fire: 
-### I am Italian :it: and I live between Vesuvius :volcano: and the Gulf of Naples :ocean:
+# Hi there! I'm **Ivan** :it:
 *I like to play with Portable Linux Apps, in particular **AppImage packages**.*
 
 ***I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun.*
