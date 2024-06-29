@@ -46,7 +46,8 @@
 #### My Tools
 *When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages*: 
 - *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen), a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS*;
-- *[**ArchImage**](https://github.com/ivan-hc/ArchImage), another script that builds a kind of AppImage package I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions*.
+- *[**ArchImage**](https://github.com/ivan-hc/ArchImage), another script that builds a kind of AppImage package I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions*;
+- *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage), an experimental script to convert Snap packages to portable AppImages.*
 
 *To recap:*
 | Name | AppImages base | Efficiency (%) | Stars |
