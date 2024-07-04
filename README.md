@@ -44,16 +44,17 @@
 -------------------------------------------------------
 
 #### My Tools
-*When a program requires multiple external libraries to work, I use two tools to generate my AppImage packages*: 
-- *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen), a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS*;
-- *[**ArchImage**](https://github.com/ivan-hc/ArchImage), another script that builds a kind of AppImage package I've named "ArchImage", being them built on top of "[JuNest](https://github.com/fsquillace/junest)", the lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. In this way the final package is compatible with all the GNU/Linux distributions*;
-- *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage), an experimental script to convert Snap packages to portable AppImages.*
+*When a program requires multiple external libraries to work, I use three tools to generate my AppImage packages*: 
+- *[**ArchImage**](https://github.com/ivan-hc/ArchImage) is a script that builds AppImages containing a portable Arch Linux container, thanks to "[JuNest](https://github.com/fsquillace/junest)". The final AppImage package is compatible with all the GNU/Linux distributions*
+- *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen) is a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS. This method is closest to those commonly used among AppImage packagers*
+- *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) is an experimental script to convert Snap packages to portable AppImages, good for standalone programs and Electron-based apps available on the Canonical/Ubuntu's Snapstore*
 
-*To recap:*
+*To recap, in order of "efficiency":*
 | Name | AppImages base | Efficiency (%) | Stars |
 | -- | -- | -- | -- |
-| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian.* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
-| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux.* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| [**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) | *Snap packages* | **10%** | ![](https://img.shields.io/github/stars/ivan-hc/Snap2AppImage?label=%E2%AD%90&style=for-the-badge)
 
 -------------------------------------------------------
 
