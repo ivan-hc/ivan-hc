@@ -67,7 +67,7 @@
 | [*Aisleriot*](https://github.com/ivan-hc/Aisleriot-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Aisleriot-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Debian (Testing, "deb-multimedia")* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Bottles*](https://github.com/ivan-hc/Bottles-appimage) | *AUR package, trough [Conty](https://github.com/Kron4ek/Conty)* | ![](https://img.shields.io/github/stars/ivan-hc/Bottles-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Bottles*](https://github.com/ivan-hc/Bottles-appimage) | *AUR package, through "[Conty](https://github.com/Kron4ek/Conty)"* | ![](https://img.shields.io/github/stars/ivan-hc/Bottles-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Celestia (Enanched)*](https://github.com/ivan-hc/Celestia-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Celestia-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chrome Stable/Beta/Unstable*](https://github.com/ivan-hc/Chrome-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/Chrome-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chromium Stable/Candidate/Beta/Edge*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) | *Snap packages* | ![](https://img.shields.io/github/stars/ivan-hc/Chromium-Web-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
