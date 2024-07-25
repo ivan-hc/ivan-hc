@@ -7,7 +7,7 @@
 
 *I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
 
-[Main projects](#main-projects)
+[Main project](#main-project)
 
 [Creating AppImage packages](#creating-appimage-packages)
 - [My Tools](#my-tools)
@@ -18,30 +18,37 @@
 
 [Side projects](#side-projects)
 
--------------------------------------------------------
+------------------------------------------------------------------------
 
-## Main projects
+## Main project
 
-*I wrote two bash scripts to install and manage the applications: [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan). Their dual existence is based on the needs of the end user.*
+------------------------------------------------------------------------
 
-| [**"AM" Application Manager**](https://github.com/ivan-hc/AM) |
-| -- |
-| <sub>***If you want to install system-wide applications on your GNU/Linux distribution in a way that is compatible with [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml) (all third-party apps must be installed in dedicated directories under `/opt` and their launchers and binaries in `/usr/local/*` ...), just use ["AM" Application Manager](https://github.com/ivan-hc/AM). This app manager requires root privileges only to install / remove applications, the main advantage of this type of installation is that the same applications will be available to all users of the system.***</sub>
+### *"*AM*" Application Manager* 
+#### *Package manager, database & solutions for all AppImages and portable apps for GNU/Linux!*
+
+[![Istantanea_2024-06-26_17-00-46 png](https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b)](https://github.com/ivan-hc/AM)
+
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AM?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AM/stargazers) [![Readme](https://img.shields.io/github/license/ivan-hc/AM?label=&style=for-the-badge)](https://github.com/ivan-hc/AM/blob/main/LICENSE)
 
-| [**"AppMan"**](https://github.com/ivan-hc/AppMan)
-| --
-| <sub>***If you don't want to put your app manager in a specific path but want to use it portable and want to install / update / manage all your apps locally, download ["AppMan"](https://github.com/ivan-hc/AppMan) instead. With this script you will be able to decide where to install your applications (at the expense of a greater consumption of resources if the system is used by more users). AppMan is portable, all you have to do is write the name of a folder in your `$HOME` where you can install all the applications available in [the "AM" database](https://github.com/ivan-hc/AM/tree/main/programs), and without root privileges.***</sub>
-[![Readme](https://img.shields.io/github/stars/ivan-hc/AppMan?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AppMan/stargazers) [![Readme](https://img.shields.io/github/license/ivan-hc/AppMan?label=&style=for-the-badge)](https://github.com/ivan-hc/AppMan/blob/main/LICENSE)
+*"AM"/"AppMan" is a set of scripts and modules for installing, updating, and managing AppImage packages and other portable formats, in the same way that APT manages DEBs packages, DNF the RPMs, and so on... using a large database of Shell scripts inspired by the Arch User Repository, each dedicated to an app or set of applications.*
 
--------------------------------------------------------
+*The engine of "AM"/"AppMan" is the "APP-MANAGER" script which, depending on how you install or rename it, allows you to install apps system-wide (for a single system administrator) or locally (for each user).*
+
+*"AM"/"AppMan" aims to be the default package manager for all AppImage packages, giving them a home to stay.*
+
+*You can consult the entire **list of managed apps** at [**portable-linux-apps.github.io/apps**](https://portable-linux-apps.github.io/apps).*
+
+## *Go to *https://github.com/ivan-hc/AM* for more!*
+
+------------------------------------------------------------------------
 
 ## Creating AppImage packages
 *Sometimes my Appimage packages are built from a base of precompiled packages, whether they are in .deb or .tar format it doesn't matter, as long as they know how to work by themselves.* 
 
 *Unfortunately it's not always that simple, so we need to download more dependencies from external packages.*
 
--------------------------------------------------------
+------------------------------------------------------------------------
 
 #### My Tools
 *When a program requires multiple external libraries to work, I use three tools to generate my AppImage packages*: 
@@ -58,7 +65,7 @@
 
 *Also I use "[Conty](https://github.com/Kron4ek/Conty)" sometime, if an AppImage is realy hard to create (see [Bottles](https://github.com/ivan-hc/Bottles-appimage))*
 
--------------------------------------------------------
+------------------------------------------------------------------------
 
 #### My AppImage packages
 *This is the list of all AppImage packages I build in my repositories for both "AM" and "AppMan".*
@@ -129,7 +136,7 @@
 
 *I hope you enjoy them!*
 
--------------------------------------------------------
+------------------------------------------------------------------------
 
 #### My 32-bit AppImage packages
 *32-bit GNU/Linux distributions are increasingly rarely used, but this does not mean they should be excluded. If you use Debian Stable for i386 (recommended) or higher, I have created a specific repository for those applications, all manageable through AM and AppMan.*
@@ -149,7 +156,7 @@
 
 *I have not included them in the main repositories of their 64-bit counterparts to avoid confusion.*
 
--------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Scripts and utilities
 | Project | Stars |
@@ -165,3 +172,8 @@
 -------------------------------------------------------
 
 ##### *If you find what I do useful, let me know with a star ⭐ in the repository you like best, or with a donation on [PayPal](http://paypal.me/IvanAlexHC) and [Ko-fi](https://ko-fi.com/IvanAlexHC). Thanks in advance!*
+
+| [***Install "AM"***](https://github.com/ivan-hc/AM) | [***My AppImage catalog***](https://portable-linux-apps.github.io) | [***Support me on ko-fi.com***](https://ko-fi.com/IvanAlexHC) | [***Support me on PayPal.me***](https://paypal.me/IvanAlexHC) |
+| - | - | - | - |
+
+------------------------------------------------------------------------
