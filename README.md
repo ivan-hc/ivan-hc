@@ -27,7 +27,14 @@
 ### *"*AM*" Application Manager* 
 #### *Package manager, database & solutions for all AppImages and portable apps for GNU/Linux!*
 
-[![Istantanea_2024-06-26_17-00-46 png](https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b)](https://github.com/ivan-hc/AM)
+<div align="center">
+
+| [<img src="https://github.com/user-attachments/assets/8f98fd3e-d94e-4b58-925d-e2ae8ff3a50c">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/2c3affbd-5f0d-4092-b12f-a12c2d9566bc">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/ebff562a-7692-4bbd-a5c5-68967a98a60b">](https://github.com/ivan-hc/AM) |
+| - | - | - |
+| [<img src="https://github.com/user-attachments/assets/deff2450-cb70-4d36-a8c8-6d80d16987ed">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/ca558c39-6354-4933-8c99-85f8fd1c3730">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/40d90713-316e-4df1-be9a-edd15827bc60">](https://github.com/ivan-hc/AM) |
+| [<img src="https://github.com/user-attachments/assets/ff38a91f-7698-4498-bd46-40f0a69e32f9">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/5886ba67-a337-435d-ac50-b280bc2cf7f8">](https://github.com/ivan-hc/AM) | [<img src="https://github.com/user-attachments/assets/dfbcf06a-17e2-4fef-b28c-777f4b55565e">](https://github.com/ivan-hc/AM) |
+
+</div>
 
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AM?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AM/stargazers) [![Readme](https://img.shields.io/github/license/ivan-hc/AM?label=&style=for-the-badge)](https://github.com/ivan-hc/AM/blob/main/LICENSE)
 
