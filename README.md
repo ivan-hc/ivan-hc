@@ -24,22 +24,16 @@
 
 ------------------------------------------------------------------------
 
+<div align="center">
+
 ### *"*AM*" Application Manager* 
 #### *Package manager, database & solutions for all AppImages and portable apps for GNU/Linux!*
 
-<div align="center">
-
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sandbox.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/list.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/about.gif">](https://github.com/ivan-hc/AM) |
-| - | - | - |
-| *sandbox AppImages* | *list available apps* | *info about the apps* |
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/install.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/query.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/files.gif">](https://github.com/ivan-hc/AM) |
-| *install applications* | *query lists using keywords* | *show the installed apps* |
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/backup-overwrite.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/update.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/nolibfuse.gif">](https://github.com/ivan-hc/AM) |
-| *create and restore snapshots* | *update everything* | *get rid of libfuse2* |
-
-</div>
+[<img src="https://github.com/user-attachments/assets/82a8ea9d-52d4-4f3d-b163-296e25acc240">](https://github.com/ivan-hc/AM)
 
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AM?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AM/stargazers) [![Readme](https://img.shields.io/github/license/ivan-hc/AM?label=&style=for-the-badge)](https://github.com/ivan-hc/AM/blob/main/LICENSE)
+
+</div>
 
 *"AM"/"AppMan" is a set of scripts and modules for installing, updating, and managing AppImage packages and other portable formats, in the same way that APT manages DEBs packages, DNF the RPMs, and so on... using a large database of Shell scripts inspired by the Arch User Repository, each dedicated to an app or set of applications.*
 
