@@ -29,7 +29,7 @@
 ### *"*AM*" Application Manager* 
 #### *Package manager, database & solutions for all AppImages and portable apps for GNU/Linux!*
 
-[<img src="https://github.com/user-attachments/assets/d87b223d-9f22-4873-80eb-ae2d74ece835">](https://github.com/ivan-hc/AM)
+[<img src="https://github.com/user-attachments/assets/ef19aba1-20f7-4c98-bbe1-2ebc698b0c58">](https://github.com/ivan-hc/AM)
 
 [![Readme](https://img.shields.io/github/stars/ivan-hc/AM?label=%E2%AD%90&style=for-the-badge)](https://github.com/ivan-hc/AM/stargazers) [![Readme](https://img.shields.io/github/license/ivan-hc/AM?label=&style=for-the-badge)](https://github.com/ivan-hc/AM/blob/main/LICENSE)
 
