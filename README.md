@@ -101,7 +101,7 @@
 | [*Microsoft Edge Stable/Beta/Dev*](https://github.com/ivan-hc/MS-Edge-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/MS-Edge-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*MPV*](https://github.com/ivan-hc/MPV-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/MPV-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*OBS-Studio*](https://github.com/ivan-hc/OBS-Studio-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/OBS-Studio-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*ocenaudio*](https://github.com/ivan-hc/ocenaudio-appimage) | *Official .deb package* | ![](https://img.shields.io/github/stars/ivan-hc/ocenaudio-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*ocenaudio*](https://github.com/ivan-hc/ocenaudio-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/ocenaudio-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Opera Stable/Beta/Dev*](https://github.com/ivan-hc/Opera-appimage) | *Official .deb packages* | ![](https://img.shields.io/github/stars/ivan-hc/Opera-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *Standalone build for GNU/Linux* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *JuNest, Arch Linux (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
