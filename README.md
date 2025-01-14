@@ -136,6 +136,7 @@
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *JuNest, Arch Linux (ArchImage)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *Debian 11*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *Debian 11*
+| [*QuickEMU (EXPERIMENTAL)*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/quickemu) | *JuNest, Arch Linux (ArchImage)*
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) | *PPA / Ubuntu 16.04*
 | [*VisiPics*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/visipics) | *WINE*
 | [*Webcamoid*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/webcamoid) | *JuNest, Arch Linux (ArchImage)*
