@@ -68,7 +68,7 @@
 | [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
 | [**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) | *Snap packages* | **10%** | ![](https://img.shields.io/github/stars/ivan-hc/Snap2AppImage?label=%E2%AD%90&style=for-the-badge)
 
-*Also I use "[Conty](https://github.com/Kron4ek/Conty)" sometime, if an AppImage is realy hard to create (see [Bottles](https://github.com/ivan-hc/Bottles-appimage))*
+*Also I use "[Conty](https://github.com/Kron4ek/Conty)" sometime, if an AppImage is realy hard to create (see [Steam](https://github.com/ivan-hc/Steam-appimage))*
 
 ------------------------------------------------------------------------
 
