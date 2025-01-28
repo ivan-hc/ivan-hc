@@ -125,7 +125,7 @@
 | Application | Source / Based on... |
 | -- | -- |
 | [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *Arch Linux - JuNest (ArchImage)*
-| [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *DEB, Ubuntu - PPA*
+| [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *Arch Linux - JuNest (ArchImage)*
 | [*Baobab3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *DEB, Debian*
 | [*CAP Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *DEB, upstream*
