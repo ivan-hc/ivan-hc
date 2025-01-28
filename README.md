@@ -77,6 +77,7 @@
 | -- | -- | -- |
 | [*Abiword*](https://github.com/ivan-hc/Abiword-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Abiword-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Aisleriot*](https://github.com/ivan-hc/Aisleriot-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Aisleriot-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Amarok*](https://github.com/ivan-hc/Amarok-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Amarok-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Bottles*](https://github.com/ivan-hc/Bottles-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Bottles-appimage?label=%E2%AD%90&style=for-the-badge)
