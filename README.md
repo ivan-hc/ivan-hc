@@ -16,8 +16,6 @@
 
 [Scripts and utilities](#scripts-and-utilities)
 
-[Side projects](#side-projects)
-
 ------------------------------------------------------------------------
 
 ## Main project
@@ -172,11 +170,6 @@
 | -- | -- |
 | [*Firefox for Linux*](https://github.com/ivan-hc/Firefox-for-Linux-scripts)*, installation scripts* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-for-Linux-scripts?label=%E2%AD%90&style=for-the-badge)
 | [*Flatpak installer*](https://github.com/ivan-hc/flatpak-install-action)*, a custom action* | ![](https://img.shields.io/github/stars/ivan-hc/flatpak-install-action?label=%E2%AD%90&style=for-the-badge)
-
-## Side projects
-| Project | Stars |
-| -- | -- |
-| [*Arch-deployer*](https://github.com/ivan-hc/Arch-deployer) *(deprecated)* | ![](https://img.shields.io/github/stars/ivan-hc/Arch-deployer?label=%E2%AD%90&style=for-the-badge)
 
 -------------------------------------------------------
 
