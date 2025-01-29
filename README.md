@@ -130,12 +130,10 @@
 | [*CAP Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *DEB, upstream*
 | [*Chromium BSU*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu) | *Arch Linux - JuNest (ArchImage)*
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
-| [*GearLever*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gearlever) | *Arch Linux - JuNest (ArchImage)*
 | [*GNOME System Monitor3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *DEB, Debian*
-| [*QuickEMU (EXPERIMENTAL)*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/quickemu) | *Arch Linux - JuNest (ArchImage)*
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) | *DEB, Ubuntu - PPA*
 | [*VisiPics*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/visipics) | *WINE*
 | [*Webcamoid*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/webcamoid) | *Arch Linux - JuNest (ArchImage)*
