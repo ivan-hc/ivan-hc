@@ -107,7 +107,7 @@
 | [*Skype*](https://github.com/ivan-hc/Skype-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SpaceCadet Pinball (AUR)*](https://github.com/ivan-hc/Spacecadetpinball-git-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Spacecadetpinball-git-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify*](https://github.com/ivan-hc/Spotify-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Steam*](https://github.com/ivan-hc/Steam-appimage) | *Arch Linux - Runimage* | ![](https://img.shields.io/github/stars/ivan-hc/Steam-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Steam*](https://github.com/ivan-hc/Steam-appimage) | *Runimage* | ![](https://img.shields.io/github/stars/ivan-hc/Steam-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SuperTuxKart*](https://github.com/ivan-hc/SuperTuxKart-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/SuperTuxKart-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Torcs*](https://github.com/ivan-hc/Torcs-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Torcs-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Transmission-gtk*](https://github.com/ivan-hc/Transmission-gtk-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Transmission-gtk-appimage?label=%E2%AD%90&style=for-the-badge)
