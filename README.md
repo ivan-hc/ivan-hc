@@ -80,6 +80,7 @@
 | [*Amarok*](https://github.com/ivan-hc/Amarok-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Amarok-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Blender Stable/RC/Beta/Alpha*](https://github.com/ivan-hc/Blender-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Blender-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Bottles*](https://github.com/ivan-hc/Bottles-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Bottles-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Brave Stable/Beta/Nightly*](https://github.com/ivan-hc/Brave-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Brave-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Celestia "Enanched"*](https://github.com/ivan-hc/Celestia-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Celestia-appimage?label=%E2%AD%90&style=for-the-badge)
