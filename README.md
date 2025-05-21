@@ -98,7 +98,6 @@
 | [*Gnumeric*](https://github.com/ivan-hc/Gnumeric-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Gnumeric-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Handbrake*](https://github.com/ivan-hc/Handbrake-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Handbrake-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Hypnotix*](https://github.com/ivan-hc/Hypnotix-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/Hypnotix-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*io.elementary.sideload*](https://github.com/ivan-hc/io.elementary.sideload-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/io.elementary.sideload-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*LibreOffice Still/Fresh*](https://github.com/ivan-hc/LibreOffice-appimage) | *Arch Linux - JuNest (ArchImage)* | ![](https://img.shields.io/github/stars/ivan-hc/LibreOffice-appimage?label=%E2%AD%90&style=for-the-badge)
