@@ -1,7 +1,7 @@
 # Hi there! I'm **Ivan** :it:
 *I like to play with Portable Linux Apps, in particular **AppImage packages**.*
 
-***I'm just an enthusiast** who likes to write scripts for GNU/Linux, for fun.*
+***I'm just an enthusiast** who likes to write Shell/Bash scripts for GNU/Linux, for fun.*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
 
