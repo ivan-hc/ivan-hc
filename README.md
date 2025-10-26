@@ -91,7 +91,7 @@
 | [*Chromium Stable/Candidate/Beta/Edge*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Chromium-Web-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Dropbox*](https://github.com/ivan-hc/Dropbox-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Dropbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Emacs*](https://github.com/ivan-hc/Emacs-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Emacs-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Evince*](https://github.com/ivan-hc/Evince-appimage) | *Arch Linux - JuNest (ArchImage 4.9)* | ![](https://img.shields.io/github/stars/ivan-hc/Evince-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Evince*](https://github.com/ivan-hc/Evince-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Evince-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Firefox Stable/ESR/Beta/Dev/Nightly*](https://github.com/ivan-hc/Firefox-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Gedit*](https://github.com/ivan-hc/Gedit-appimage) | *Arch Linux - JuNest (ArchImage 4.9)* | ![](https://img.shields.io/github/stars/ivan-hc/Gedit-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*GIMP Stable/Git/Hybrid*](https://github.com/ivan-hc/GIMP-appimage) | *Arch Linux - JuNest (ArchImage 4.9)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
