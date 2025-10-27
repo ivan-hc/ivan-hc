@@ -132,13 +132,13 @@
 | Application | Source / Based on... |
 | -- | -- |
 | [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *Arch Linux - JuNest (ArchImage 4.9)*
-| [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*Baobab GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *DEB, Debian*
 | [*CAP Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *DEB, upstream*
-| [*Chromium BSU*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*Chromium BSU*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/chromium-bsu) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
-| [*Falkon*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/falkon) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*Falkon*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/falkon) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*FileZilla*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla) | *Arch Linux - JuNest (ArchImage 4.3)*
 | [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
@@ -149,7 +149,7 @@
 | [*Sunvox*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/sunvox) | *Arch Linux - JuNest (ArchImage 4.3)*
 | [*System Monitor GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
 | [*VisiPics*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/visipics) | *WINE*
-| [*Webcamoid*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/webcamoid) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*Webcamoid*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/webcamoid) | *Arch Linux - JuNest (ArchImage 4.9)*
 
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
