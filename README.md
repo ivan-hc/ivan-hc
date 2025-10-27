@@ -121,7 +121,7 @@
 | [*UrbanTerror*](https://github.com/ivan-hc/UrbanTerror-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/UrbanTerror-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*VirtualBox KVM*](https://github.com/ivan-hc/VirtualBox-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/VirtualBox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Vivaldi Stable/Snapshot*](https://github.com/ivan-hc/Vivaldi-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Vivaldi-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*VLC Stable/Git*](https://github.com/ivan-hc/VLC-appimage) | *Arch Linux - JuNest (ArchImage 4.9)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*VLC Stable/Git*](https://github.com/ivan-hc/VLC-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*WhatsApp Nativefier*](https://github.com/ivan-hc/whatsapp-nativefier-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/whatsapp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*WPS Office*](https://github.com/ivan-hc/WPS-Office-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/WPS-Office-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Yandex Browser Stable/Beta/Corporate*](https://github.com/ivan-hc/Yandex-Browser-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Yandex-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
