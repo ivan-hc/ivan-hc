@@ -131,7 +131,7 @@
 
 | Application | Source / Based on... |
 | -- | -- |
-| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*Asunder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/asunder) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*Audacious*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/audacious) | *Arch Linux - JuNest (ArchImage 4.3)*
 | [*Baobab GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *DEB, Debian*
@@ -140,7 +140,7 @@
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
 | [*Falkon*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/falkon) | *Arch Linux - JuNest (ArchImage 4.3)*
 | [*FileZilla*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla) | *Arch Linux - JuNest (ArchImage 4.3)*
-| [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage 4.3)*
+| [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage 4.9)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *DEB, Debian*
 | [*Poedit*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/poedit) | *Arch Linux - JuNest (ArchImage 5.0)*
