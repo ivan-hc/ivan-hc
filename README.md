@@ -141,7 +141,7 @@
 | [*Falkon*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/falkon) | *Arch Linux - JuNest (ArchImage 5.0)*
 | [*FileZilla Client*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla) | *Arch Linux - JuNest (ArchImage 5.0)*
 | [*FileZilla Server*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla-server) | *TAR/ZIP, redistributed*
-| [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage 4.9)*
+| [*kwave*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/kwave) | *Arch Linux - JuNest (ArchImage 5.0)*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *DEB, Debian*
 | [*Poedit*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/poedit) | *Arch Linux - JuNest (ArchImage 5.0)*
