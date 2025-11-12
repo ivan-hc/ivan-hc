@@ -100,7 +100,7 @@
 | [*Hypnotix*](https://github.com/ivan-hc/Hypnotix-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Hypnotix-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Inkscape*](https://github.com/ivan-hc/Inkscape-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Inkscape-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *Arch Linux - JuNest (ArchImage 4.9)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*LibreOffice Still/Fresh*](https://github.com/ivan-hc/LibreOffice-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/LibreOffice-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Microsoft Edge Stable/Beta/Dev*](https://github.com/ivan-hc/MS-Edge-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/MS-Edge-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*MPV*](https://github.com/ivan-hc/MPV-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/MPV-appimage?label=%E2%AD%90&style=for-the-badge)
