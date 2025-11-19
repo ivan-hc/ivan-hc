@@ -96,6 +96,7 @@
 | [*Emacs*](https://github.com/ivan-hc/Emacs-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Emacs-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Evince*](https://github.com/ivan-hc/Evince-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Evince-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*falkon*](https://github.com/ivan-hc/falkon-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/falkon-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*FileZilla (client)*](https://github.com/ivan-hc/FileZilla-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/FileZilla-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Firefox Stable/ESR/Beta/Dev/Nightly*](https://github.com/ivan-hc/Firefox-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Firefox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Gedit*](https://github.com/ivan-hc/Gedit-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Gedit-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*GIMP Stable/Git/Hybrid*](https://github.com/ivan-hc/GIMP-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/GIMP-appimage?label=%E2%AD%90&style=for-the-badge)
@@ -140,8 +141,7 @@
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *DEB, Debian*
 | [*CAP Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *DEB, upstream*
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
-| [*FileZilla Client*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla) | *Arch Linux - JuNest (ArchImage 5.0)*
-| [*FileZilla Server*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla-server) | *TAR/ZIP, redistributed*
+| [*FileZilla (server)*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla-server) | *TAR/ZIP, redistributed*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *DEB, Debian*
 | [*Simple Scan GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simple-scan3) | *DEB, Debian*
