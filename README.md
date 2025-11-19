@@ -139,7 +139,6 @@
 | -- | -- |
 | [*Baobab GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
 | [*Billard GL*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/billard-gl) | *DEB, Debian*
-| [*CAP Battleship*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/capbattleship) | *DEB, upstream*
 | [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
 | [*FileZilla (server)*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla-server) | *TAR/ZIP, redistributed*
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
