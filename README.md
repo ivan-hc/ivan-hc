@@ -92,6 +92,7 @@
 | [*Chrome Stable/Beta/Unstable*](https://github.com/ivan-hc/Chrome-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Chrome-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Chromium Stable/Candidate/Beta/Edge*](https://github.com/ivan-hc/Chromium-Web-Browser-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Chromium-Web-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*chromium-bsu*](https://github.com/ivan-hc/chromium-bsu-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/chromium-bsu-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Discord*](https://github.com/ivan-hc/Discord-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Discord-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Dropbox*](https://github.com/ivan-hc/Dropbox-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Dropbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Emacs*](https://github.com/ivan-hc/Emacs-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Emacs-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Evince*](https://github.com/ivan-hc/Evince-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Evince-appimage?label=%E2%AD%90&style=for-the-badge)
