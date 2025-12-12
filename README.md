@@ -5,8 +5,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=ivan-hc&theme=onedark&column=-1&margin-w=15)
-
 *I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
 
 [Main project](#main-project)
