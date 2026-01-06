@@ -119,6 +119,7 @@
 | [*Poedit*](https://github.com/ivan-hc/Poedit-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Poedit-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*SimpleScreenRecorder*](https://github.com/ivan-hc/SimpleScreenRecorder-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/SimpleScreenRecorder-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Skype*](https://github.com/ivan-hc/Skype-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SpaceCadet Pinball (AUR)*](https://github.com/ivan-hc/Spacecadetpinball-git-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Spacecadetpinball-git-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify*](https://github.com/ivan-hc/Spotify-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
@@ -147,7 +148,6 @@
 | [*lxtask*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/lxtask) | *DEB, Debian*
 | [*MATE System Monitor*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/mate-system-monitor) | *DEB, Debian*
 | [*Simple Scan GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simple-scan3) | *DEB, Debian*
-| [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) | *DEB, Ubuntu - PPA*
 | [*System Monitor GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
 
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
