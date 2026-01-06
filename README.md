@@ -130,6 +130,7 @@
 | [*Transmission-gtk*](https://github.com/ivan-hc/Transmission-gtk-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Transmission-gtk-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*UrbanTerror*](https://github.com/ivan-hc/UrbanTerror-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/UrbanTerror-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*VirtualBox KVM*](https://github.com/ivan-hc/VirtualBox-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/VirtualBox-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*visipics*](https://github.com/ivan-hc/visipics-appimage) | *wine32-deploy* | ![](https://img.shields.io/github/stars/ivan-hc/visipics-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Vivaldi Stable/Snapshot*](https://github.com/ivan-hc/Vivaldi-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Vivaldi-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*VLC Stable/Git*](https://github.com/ivan-hc/VLC-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*WPS Office*](https://github.com/ivan-hc/WPS-Office-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/WPS-Office-appimage?label=%E2%AD%90&style=for-the-badge)
@@ -149,7 +150,6 @@
 | [*Simple Scan GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simple-scan3) | *DEB, Debian*
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simplescreenrecorder) | *DEB, Ubuntu - PPA*
 | [*System Monitor GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
-| [*VisiPics*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/visipics) | *WINE*
 
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
