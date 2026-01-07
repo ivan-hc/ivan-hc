@@ -119,7 +119,7 @@
 | [*Poedit*](https://github.com/ivan-hc/Poedit-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Poedit-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*SimpleScreenRecorder*](https://github.com/ivan-hc/SimpleScreenRecorder-appimage) | *DEB, Ubuntu+PPA* | ![](https://img.shields.io/github/stars/ivan-hc/SimpleScreenRecorder-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*SimpleScreenRecorder*](https://github.com/ivan-hc/SimpleScreenRecorder-appimage) | *Arch Linux - JuNest (Anylinux)* | ![](https://img.shields.io/github/stars/ivan-hc/SimpleScreenRecorder-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Skype*](https://github.com/ivan-hc/Skype-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SpaceCadet Pinball (AUR)*](https://github.com/ivan-hc/Spacecadetpinball-git-appimage) | *Arch Linux - JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Spacecadetpinball-git-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify*](https://github.com/ivan-hc/Spotify-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
