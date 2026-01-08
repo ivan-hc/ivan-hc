@@ -55,18 +55,18 @@
 
 #### My Tools
 *When a program requires multiple external libraries to work, I use three tools to generate my AppImage packages*: 
-- *[**ArchImage**](https://github.com/ivan-hc/ArchImage) is a script that builds AppImages containing a portable Arch Linux container, named "[JuNest](https://github.com/fsquillace/junest)". The final AppImage package is compatible with all the GNU/Linux distributions. Since version 5.0 the CLI is also able to create scripts for producing "[Anylinux](https://github.com/pkgforge-dev/Anylinux-AppImages)" AppImage packages, which therefore do not require an internal container to work*
-- *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen) is a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS. This method is closest to those commonly used among AppImage packagers*
-- *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) is an experimental script to convert Snap packages to portable AppImages, good for standalone programs and Electron-based apps available on the Canonical/Ubuntu's Snapstore*
-- *[**Arch-Deployer**](https://github.com/ivan-hc/Arch-Deployer) is an experimental script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage. Although inactive for years and archived in favor of Archimage, it had a certain following, so much so that it has been rehabilitated, ready for new implementations that could solve its portability problems, such as support for GLIBC.*
+- *[**ArchImage**](https://github.com/ivan-hc/ArchImage) builds AppImages containing a portable Arch Linux container, named "[JuNest](https://github.com/fsquillace/junest)".  Since version 5.0 the CLI is also able to create scripts for producing "[Anylinux](https://github.com/pkgforge-dev/Anylinux-AppImages)" AppImages, which therefore do not require an internal container to work. The final AppImage package is compatible with all the GNU/Linux distributions.*
+- *[**AppImaGen**](https://github.com/ivan-hc/AppImaGen) is a script that builds AppImages from Ubuntu PPAs or Debian repositories. The final packages are GLIBC compatible for the chosen Debian release or the previous (not the latest, not the oldest) Ubuntu LTS. This method is closest to those commonly used among AppImage packagers.*
+- *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) is an experimental script to convert Snap packages to portable AppImages, good for standalone programs and Electron-based apps available on the Canonical/Ubuntu's Snapstore.*
+- *[**Arch-Deployer**](https://github.com/ivan-hc/Arch-Deployer) is an experimental script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage. Although inactive for years and archived in favor of Archimage, it had a certain following. Efficiency is not guaranteed, as the packages and libraries in use depend on GLIBC being greater than or equal to Arch Linux.*
 
 *To recap, in order of "efficiency":*
-| Name | AppImages base | Efficiency (%) | Stars |
-| -- | -- | -- | -- |
-| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
-| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
-| [**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) | *Snap packages* | **10%** | ![](https://img.shields.io/github/stars/ivan-hc/Snap2AppImage?label=%E2%AD%90&style=for-the-badge)
-| [**Arch-Deployer**](https://github.com/ivan-hc/Arch-Deployer) | *Arch Linux* | **unknown** | ![](https://img.shields.io/github/stars/ivan-hc/Arch-Deployer?label=%E2%AD%90&style=for-the-badge)
+| Name | AppImages base | Method | Efficiency (%) | Stars |
+| -- | -- | -- | -- | -- |
+| [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux* | *JuNest-based or Anylinux (you choose)* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
+| [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian* | *Classic, limited by GLIBC* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
+| [**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) | *Snap packages* | *Classic, limited by GLIBC* | **10%** | ![](https://img.shields.io/github/stars/ivan-hc/Snap2AppImage?label=%E2%AD%90&style=for-the-badge)
+| [**Arch-Deployer**](https://github.com/ivan-hc/Arch-Deployer) | *Arch Linux* | *Classic, limited by GLIBC* | **3%** | ![](https://img.shields.io/github/stars/ivan-hc/Arch-Deployer?label=%E2%AD%90&style=for-the-badge)
 
 *Also I'm open to cooperation in teams by experiencing new methods to create Appimages. As a special guest, I also have a [Steam](https://github.com/ivan-hc/Steam-appimage) AppImage built using [Runimage](https://github.com/VHSgunzo/runimage), thanks to the big effort of one of my best cooperators, [Samueru-sama](https://github.com/Samueru-sama).*
 
