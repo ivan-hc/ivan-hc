@@ -139,15 +139,15 @@
 | [*VLC Stable/Git*](https://github.com/ivan-hc/VLC-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/VLC-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*WPS Office*](https://github.com/ivan-hc/WPS-Office-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/WPS-Office-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Yandex Browser Stable/Beta/Corporate*](https://github.com/ivan-hc/Yandex-Browser-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Yandex-Browser-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Database of pkg2appimaged packages**](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) | *Various sources* | ![](https://img.shields.io/github/stars/ivan-hc/Database-of-pkg2appimaged-packages?label=%E2%AD%90&style=for-the-badge)
+| [*GNOME3 AppImages**](https://github.com/ivan-hc/GNOME3-appimages) | *Various sources* | ![](https://img.shields.io/github/stars/ivan-hc/GNOME3-appimages?label=%E2%AD%90&style=for-the-badge)
 
-**NOTE, the last one in the table above is a database containing small random apps and games that you may need. The AppImages contained in this repository are:*
+**NOTE, the last one in the table above is a database containing small GNOME3-related apps that you may need. The AppImages contained in this repository are:*
 
 | Application | Source / Based on... |
 | -- | -- |
-| [*Baobab GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
-| [*Simple Scan GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simple-scan3) | *DEB, Debian*
-| [*System Monitor GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
+| [*Baobab GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/baobab3) | *DEB, Debian*
+| [*Simple Scan GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/simple-scan3) | *DEB, Debian*
+| [*System Monitor GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
 
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
