@@ -145,9 +145,9 @@
 
 | Application | Source / Based on... |
 | -- | -- |
-| [*Baobab GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/baobab3) | *DEB, Debian*
-| [*Simple Scan GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/simple-scan3) | *DEB, Debian*
-| [*System Monitor GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
+| [*Baobab GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/baobab) | *DEB, Debian*
+| [*Simple Scan GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/simple-scan) | *DEB, Debian*
+| [*System Monitor GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/gnome-system-monitor) | *DEB, Debian*
 
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
