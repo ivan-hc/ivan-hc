@@ -146,7 +146,6 @@
 | Application | Source / Based on... |
 | -- | -- |
 | [*Baobab GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/baobab3) | *DEB, Debian*
-| [*Extreme Tux Racer*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/extremetuxracer) | *DEB, Debian*
 | [*Simple Scan GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/simple-scan3) | *DEB, Debian*
 | [*System Monitor GTK3*](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/gnome-system-monitor3) | *DEB, Debian*
 
