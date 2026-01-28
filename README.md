@@ -13,6 +13,7 @@
 - [My Tools](#my-tools)
 - [My AppImage packages](#my-appimage-packages)
 - [My 32-bit AppImage packages](#my-32-bit-appimage-packages)
+- [My Tips](#my-tips)
 
 [Scripts and utilities](#scripts-and-utilities)
 
@@ -172,6 +173,13 @@
 | [*VLC*](https://github.com/ivan-hc/32-bit-AppImage-packages-database/releases/tag/vlc) | *Debian (Stable)*
 
 *I have not included them in the main repositories of their 64-bit counterparts to avoid confusion.*
+
+------------------------------------------------------------------------
+
+# My Tips
+*Here's a beginner's guide I wrote for those aspiring to build AppImage packages*
+
+***https://github.com/ivan-hc/AppImage-tips***
 
 ------------------------------------------------------------------------
 
