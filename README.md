@@ -85,6 +85,7 @@
 | [*asunder*](https://github.com/ivan-hc/asunder-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/asunder-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Audacious*](https://github.com/ivan-hc/Audacious-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Audacious-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Betterbird ESR*](https://github.com/ivan-hc/Betterbird-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Betterbird-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*billard-gl*](https://github.com/ivan-hc/billard-gl-appimage) | *DEB, Debian* | ![](https://img.shields.io/github/stars/ivan-hc/billard-gl-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Blender Stable/RC/Beta/Alpha*](https://github.com/ivan-hc/Blender-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Blender-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Bottles*](https://github.com/ivan-hc/Bottles-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Bottles-appimage?label=%E2%AD%90&style=for-the-badge)
