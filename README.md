@@ -150,6 +150,8 @@
 | [*Baobab GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/baobab) | *DEB, Debian*
 | [*Eye Of GNOME GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/eog) | *DEB, Debian*
 | [*File Roller GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/file-roller) | *DEB, Debian*
+| [*Galculator GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/galculator) | *DEB, Debian*
+| [*Gedit GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/gedit) | *DEB, Debian*
 | [*Simple Scan GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/simple-scan) | *DEB, Debian*
 | [*System Monitor GTK3*](https://github.com/ivan-hc/GNOME3-appimages/releases/tag/gnome-system-monitor) | *DEB, Debian*
 
