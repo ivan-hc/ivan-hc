@@ -3,6 +3,8 @@
 
 ***I'm just an enthusiast** who likes to write Shell/Bash scripts for GNU/Linux, for fun.*
 
+[![committers.top badge](https://user-badge.committers.top/italy/ivan-hc.svg)](https://user-badge.committers.top/italy/ivan-hc)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
 
 *I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
