@@ -63,9 +63,12 @@
 - *[**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) is an experimental script to convert Snap packages to portable AppImages, good for standalone programs and Electron-based apps available on the Canonical/Ubuntu's Snapstore.*
 - *[**Arch-Deployer**](https://github.com/ivan-hc/Arch-Deployer) is an experimental script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage. Although inactive for years and archived in favor of Archimage, it had a certain following. Efficiency is not guaranteed, as the packages and libraries in use depend on GLIBC being greater than or equal to Arch Linux.*
 
+*However, if a program is already portable and is distributed as a static binary or in 7z/deb/tar/zip archives, simply creating an AppDir with an icon and a .desktop file is enough to easily export it to an AppImage. For owners of such applications, [**portable2appimage**](https://github.com/ivan-hc/portable2appimage) is just the ticket.*
+
 *To recap, in order of "efficiency":*
 | Name | AppImages base | Method | Efficiency (%) | Stars |
 | -- | -- | -- | -- | -- |
+| **[portable2appimage](https://github.com/ivan-hc/portable2appimage)** | *Any standalone portable program* | *Classic, limited by upstream settings* | **100%** | ![](https://img.shields.io/github/stars/ivan-hc/portable2appimage?label=%E2%AD%90&style=for-the-badge) |
 | [**ArchImage**](https://github.com/ivan-hc/ArchImage) | *Arch Linux* | *JuNest-based or Anylinux (you choose)* | **90%** | ![](https://img.shields.io/github/stars/ivan-hc/ArchImage?label=%E2%AD%90&style=for-the-badge)
 | [**AppImaGen**](https://github.com/ivan-hc/AppImaGen) | *Ubuntu LTS or Debian* | *Classic, limited by GLIBC* | **50%** | ![](https://img.shields.io/github/stars/ivan-hc/AppImaGen?label=%E2%AD%90&style=for-the-badge)
 | [**Snap2AppImage**](https://github.com/ivan-hc/Snap2AppImage) | *Snap packages* | *Classic, limited by GLIBC* | **10%** | ![](https://img.shields.io/github/stars/ivan-hc/Snap2AppImage?label=%E2%AD%90&style=for-the-badge)
