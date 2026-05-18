@@ -127,6 +127,7 @@
 | [*OBS-Studio*](https://github.com/ivan-hc/OBS-Studio-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/OBS-Studio-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*ocenaudio*](https://github.com/ivan-hc/ocenaudio-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/ocenaudio-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Opera Stable/Beta/Dev*](https://github.com/ivan-hc/Opera-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Opera-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*PaleMoon*](https://github.com/ivan-hc/PaleMoon-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/PaleMoon-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Poedit*](https://github.com/ivan-hc/Poedit-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Poedit-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
