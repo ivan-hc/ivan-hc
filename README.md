@@ -165,17 +165,17 @@
 #### Archived AppImage repositories
 *Below is a list of notable AppImage packages that I've archived for various reasons (development ended or upstream adopted, better alternatives I've given up my spot for...):*
 
-| Application | Stars |
-| -- | -- |
-| [*Amarok*](https://github.com/ivan-hc/Amarok-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Amarok-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*anki*](https://github.com/ivan-hc/anki-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/anki-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*asunder*](https://github.com/ivan-hc/asunder-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/asunder-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Audacious*](https://github.com/ivan-hc/Audacious-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Audacious-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Firedragon*](https://github.com/ivan-hc/Firedragon-appimage) *[Archived, upstreamed]* | ![](https://img.shields.io/github/stars/ivan-hc/Firedragon-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Gnome calculator*](https://github.com/ivan-hc/Gnome-calculator-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Gnome-calculator-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) *[Archived, upstreamed]* | ![](https://img.shields.io/github/stars/ivan-hc/qbittorrent-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Skype*](https://github.com/ivan-hc/Skype-appimage) *[Archived, abandonware]* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*WhatsApp nativefier*](https://github.com/ivan-hc/WhatsApp-nativefier-appimage) *[Archived, stop maintenance by upstream developer]* | ![](https://img.shields.io/github/stars/ivan-hc/WhatsApp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
+| Application | Stars | Reason for archiving |
+| -- | -- | -- |
+| [*Amarok*](https://github.com/ivan-hc/Amarok-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/Amarok-appimage?label=%E2%AD%90&style=for-the-badge) | *a better alternative is available in the Pkgforge-dev repository*
+| [*anki*](https://github.com/ivan-hc/anki-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/anki-appimage?label=%E2%AD%90&style=for-the-badge) | *a better alternative is available in the Pkgforge-dev repository*
+| [*asunder*](https://github.com/ivan-hc/asunder-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/asunder-appimage?label=%E2%AD%90&style=for-the-badge) | *a better alternative is available in the Pkgforge-dev repository*
+| [*Audacious*](https://github.com/ivan-hc/Audacious-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/Audacious-appimage?label=%E2%AD%90&style=for-the-badge) | *a better alternative is available in the Pkgforge-dev repository*
+| [*Firedragon*](https://github.com/ivan-hc/Firedragon-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/Firedragon-appimage?label=%E2%AD%90&style=for-the-badge) | *upstreamed*
+| [*Gnome calculator*](https://github.com/ivan-hc/Gnome-calculator-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/Gnome-calculator-appimage?label=%E2%AD%90&style=for-the-badge) | *a better alternative is available in the Pkgforge-dev repository*
+| [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/qbittorrent-appimage?label=%E2%AD%90&style=for-the-badge) | *upstreamed*
+| [*Skype*](https://github.com/ivan-hc/Skype-appimage)| ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge) | *abandonware* 
+| [*WhatsApp nativefier*](https://github.com/ivan-hc/WhatsApp-nativefier-appimage) | ![](https://img.shields.io/github/stars/ivan-hc/WhatsApp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge) | *stop maintenance by upstream developer*
 
 ------------------------------------------------------------------------
 
