@@ -85,10 +85,7 @@
 | -- | -- | -- |
 | [*Abiword*](https://github.com/ivan-hc/Abiword-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Abiword-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Aisleriot*](https://github.com/ivan-hc/Aisleriot-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Aisleriot-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*anki*](https://github.com/ivan-hc/anki-appimage) *[Archived]* | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/anki-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*AnyDesk*](https://github.com/ivan-hc/Anydesk-appimage) | *DEB, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Anydesk-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*asunder*](https://github.com/ivan-hc/asunder-appimage) *[Archived]* | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/asunder-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Audacious*](https://github.com/ivan-hc/Audacious-appimage) *[Archived]* | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Audacious-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Avidemux*](https://github.com/ivan-hc/Avidemux-unofficial-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Avidemux-unofficial-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Betterbird ESR*](https://github.com/ivan-hc/Betterbird-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/Betterbird-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*billard-gl*](https://github.com/ivan-hc/billard-gl-appimage) | *DEB, Debian* | ![](https://img.shields.io/github/stars/ivan-hc/billard-gl-appimage?label=%E2%AD%90&style=for-the-badge)
@@ -132,7 +129,6 @@
 | [*PowerShell*](https://github.com/ivan-hc/PowerShell-appimage) | *TAR/ZIP, upstream* | ![](https://img.shields.io/github/stars/ivan-hc/PowerShell-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Rhythmbox*](https://github.com/ivan-hc/Rhythmbox-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Rhythmbox-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SimpleScreenRecorder*](https://github.com/ivan-hc/SimpleScreenRecorder-appimage) | *Arch Linux, Anylinux* | ![](https://img.shields.io/github/stars/ivan-hc/SimpleScreenRecorder-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*Skype*](https://github.com/ivan-hc/Skype-appimage) *[Archived]* | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*SpaceCadet Pinball (AUR)*](https://github.com/ivan-hc/Spacecadetpinball-git-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Spacecadetpinball-git-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Spotify Stable/Candidate/Edge*](https://github.com/ivan-hc/Spotify-appimage) | *Snap* | ![](https://img.shields.io/github/stars/ivan-hc/Spotify-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*Steam*](https://github.com/ivan-hc/Steam-appimage) | *Runimage* | ![](https://img.shields.io/github/stars/ivan-hc/Steam-appimage?label=%E2%AD%90&style=for-the-badge)
@@ -165,6 +161,21 @@
 *All of these applications have been built since September 2021, and (if my time will be enough) I will build even more AppImages. Just browse my repositories to find other experimental projects I'm working on. My main workflow is based on the [**ArchImage**](https://github.com/ivan-hc/ArchImage) method since summer 2023, and I believe I will continue to work this way until a better solution than this is discovered.*
 
 *I hope you enjoy them!*
+
+#### Archived AppImage repositories
+*Below is a list of notable AppImage packages that I've archived for various reasons (development ended or upstream adopted, better alternatives I've given up my spot for...):*
+
+| Application | Stars |
+| -- | -- |
+| [*Amarok*](https://github.com/ivan-hc/Amarok-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Amarok-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*anki*](https://github.com/ivan-hc/anki-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/anki-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*asunder*](https://github.com/ivan-hc/asunder-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/asunder-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Audacious*](https://github.com/ivan-hc/Audacious-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Audacious-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Firedragon*](https://github.com/ivan-hc/Firedragon-appimage) *[Archived, upstreamed]* | ![](https://img.shields.io/github/stars/ivan-hc/Firedragon-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Gnome calculator*](https://github.com/ivan-hc/Gnome-calculator-appimage) *[Archived, better alternative from Pkgforge-dev]* | ![](https://img.shields.io/github/stars/ivan-hc/Gnome-calculator-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*qBittorrent*](https://github.com/ivan-hc/qbittorrent-appimage) *[Archived, upstreamed]* | ![](https://img.shields.io/github/stars/ivan-hc/qbittorrent-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*Skype*](https://github.com/ivan-hc/Skype-appimage) *[Archived, abandonware]* | ![](https://img.shields.io/github/stars/ivan-hc/Skype-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*WhatsApp nativefier*](https://github.com/ivan-hc/WhatsApp-nativefier-appimage) *[Archived, stop maintenance by upstream developer]* | ![](https://img.shields.io/github/stars/ivan-hc/WhatsApp-nativefier-appimage?label=%E2%AD%90&style=for-the-badge)
 
 ------------------------------------------------------------------------
 
