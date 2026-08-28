@@ -5,7 +5,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/italy/ivan-hc.svg)](https://user-badge.committers.top/italy/ivan-hc)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-hc&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ivan-hc&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 *I started writing small scripts for personal use, in my free time... and then sharing them here, on Github.*
 
