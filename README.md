@@ -115,7 +115,7 @@
 | [*Inkscape*](https://github.com/ivan-hc/Inkscape-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/Inkscape-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-games*](https://github.com/ivan-hc/KDE-games-suite-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-games-suite-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*KDE-utils*](https://github.com/ivan-hc/KDE-utils-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/KDE-utils-appimage?label=%E2%AD%90&style=for-the-badge)
-| [*kwave*](https://github.com/ivan-hc/kwave-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/kwave-appimage?label=%E2%AD%90&style=for-the-badge)
+| [*kwave*](https://github.com/ivan-hc/kwave-appimage) | *Arch Linux, Anylinux* | ![](https://img.shields.io/github/stars/ivan-hc/kwave-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*LibreOffice Still/Fresh*](https://github.com/ivan-hc/LibreOffice-appimage) | *Arch Linux, JuNest (ArchImage 5.0)* | ![](https://img.shields.io/github/stars/ivan-hc/LibreOffice-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*lxtask*](https://github.com/ivan-hc/lxtask-appimage) | *Arch Linux, Anylinux* | ![](https://img.shields.io/github/stars/ivan-hc/lxtask-appimage?label=%E2%AD%90&style=for-the-badge)
 | [*MATE-system-monitor*](https://github.com/ivan-hc/MATE-system-monitor-appimage) | *Arch Linux, Anylinux* | ![](https://img.shields.io/github/stars/ivan-hc/MATE-system-monitor-appimage?label=%E2%AD%90&style=for-the-badge)
